@@ -1,0 +1,28 @@
+{
+  "name": "custom-event-polyfill",
+  "version": "1.0.0",
+  "description": "CustomEvent Polyfill",
+  "main": "index.js",
+  "module": "index.js6",
+  "jsnext:main": "index.js6",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig":{
+    "registry":"https://artifactory.corp.adobe.com/artifactory/api/npm/npm-target-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adobe-Marketing-Cloud/custom-event-polyfill.git"
+  },
+  "keywords": [
+    "CustomEvent",
+    "polyfill"
+  ],
+  "author": "Adobe Systems Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adobe-Marketing-Cloud/custom-event-polyfill/issues"
+  },
+  "homepage": "https://github.com/Adobe-Marketing-Cloud/custom-event-polyfill#readme"
+}
