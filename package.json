@@ -1,5 +1,5 @@
 {
-  "name": "custom-event-polyfill",
+  "name": "@target/custom-event-polyfill",
   "version": "1.0.0",
   "description": "CustomEvent Polyfill",
   "main": "index.js",
